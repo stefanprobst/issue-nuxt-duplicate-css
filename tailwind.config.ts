@@ -2,7 +2,7 @@ import { type Config } from 'tailwindcss'
 
 const config = {
   content: [
-    "./src/app.vue",
+    "./app.vue",
   ],
 } satisfies Config
 
